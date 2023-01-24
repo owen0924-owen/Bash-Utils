@@ -11,7 +11,7 @@ UpdatePterodactylPanel(){
 FreeTheMemory(){
     bash <(curl https://raw.githubusercontent.com/owen0924-owen/free-the-memory-script/main/free.sh)
 }
-}
+
 echo "Copyright (c) 2023 SHD Cloud | owen0924"
 echo "Choose an option down below to execute specify action."
 echo ""
